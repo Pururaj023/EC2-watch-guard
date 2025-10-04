@@ -1,5 +1,5 @@
 # 🖥️ AWS EC2 Monitoring with Lambda, CloudWatch Events & SNS
-
+![workflow](./ec2-monitoring.png)
 ## 📘 Overview
 This project automates EC2 instance monitoring using **AWS Lambda**, **CloudWatch Events**, and **SNS**.  
 It performs two key functions:
